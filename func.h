@@ -1,0 +1,6 @@
+#pragma once
+int addition(int value1, int value2);
+int subtraction(int value1, int value2);
+int multiplication(int value1, int value2);
+int division(int value1, int value2);
+double power(int value1, int value2);
